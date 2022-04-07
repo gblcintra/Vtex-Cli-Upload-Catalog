@@ -1,0 +1,12 @@
+Id,UniqueIdentifier,Name,FatherCategoryId,ParentUniqueIdentifier,Title,Description,Keywords,IsActive,LomadeeCampaignCode,AdWordsRemarketingCode,ShowInStoreFront,ShowBrandFilter,ActiveStoreFrontLink,GlobalCategoryId,StockKeepingUnitSelectionMode,Score,LinkId,HasChildren
+,1-0-0,Men,,,Men,Men,Men,true,,,true,true,true,,SPECIFICATION,,,
+,1-1-0,Men's Clothing,,1-0-0,Clothing,Clothing,Clothing,true,,,true,true,true,,SPECIFICATION,,,
+,1-2-0,Men's Shoes,,1-0-0,Shoes,Shoes,Shoes,true,,,true,true,true,,SPECIFICATION,,,
+,1-1-1,Men's Tops,,1-1-0,Tops,Tops,Tops,true,,,true,true,true,,SPECIFICATION,,,
+,1-1-2,Men's Bottoms,,1-1-0,Bottoms,Bottoms,Bottoms,true,,,true,true,true,,SPECIFICATION,,,
+,2-0-0,Women,,,Women,Women,Women,true,,,true,true,true,,SPECIFICATION,,,
+,2-1-0,Women's Clothing,,2-0-0,Clothing,Clothing,Clothing,true,,,true,true,true,,SPECIFICATION,,,
+,2-2-0,Women's Shoes,,2-0-0,Shoes,Shoes,Shoes,true,,,true,true,true,,SPECIFICATION,,,
+,2-1-1,Women's Tops,,2-1-0,Tops,Tops,Tops,true,,,true,true,true,,SPECIFICATION,,,
+,2-1-2,Women's Bottoms,,2-1-0,Bottoms,Bottoms,Bottoms,true,,,true,true,true,,SPECIFICATION,,,
+,2-1-3,Women's Dresses,,2-1-0,Dresses,Dresses,Dresses,true,,,true,true,true,,SPECIFICATION,,,

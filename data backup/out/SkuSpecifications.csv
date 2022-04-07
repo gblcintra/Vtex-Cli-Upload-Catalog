@@ -1,0 +1,8 @@
+Id,FieldTypeId,CategoryId,FieldGroupId,Name,Description,Position,IsFilter,IsRequired,IsOnProductDetails,IsStockKeepingUnit,IsWizard,IsActive,IsTopMenuLinkActive,DefaultValue
+,6,8,12,Size,Size,1,true,false,false,true,false,true,false,
+,6,9,12,Size,Size,1,true,false,false,true,false,true,false,
+,6,10,12,Size,Size,1,true,false,false,true,false,true,false,
+,6,11,12,Size,Size,1,true,false,false,true,false,true,false,
+,6,4,12,Size,Size,1,true,false,false,true,false,true,false,
+,6,5,12,Size,Size,1,true,false,false,true,false,true,false,
+,6,3,12,Size,Size,1,true,false,false,true,false,true,false,
